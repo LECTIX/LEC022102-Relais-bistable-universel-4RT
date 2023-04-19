@@ -1,0 +1,24 @@
+Drill report for LEC022102.kicad_pcb
+Created on Wed Apr 19 17:26:23 2023
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'LEC022102.drl' contains
+    plated through holes:
+    =============================================================
+    T1  1.000mm  0.0394"  (20 holes)
+    T2  1.520mm  0.0598"  (15 holes)
+
+    Total plated holes count 35
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T3  3.200mm  0.1260"  (4 holes)
+
+    Total unplated holes count 4
